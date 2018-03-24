@@ -1,0 +1,9 @@
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\SAE\Unterrichte\OOP\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+E:\Programming\C#\Interfaces\bin\Debug\Interfaces.exe.config
+E:\Programming\C#\Interfaces\obj\Debug\Interfaces.exe
+E:\Programming\C#\Interfaces\obj\Debug\Interfaces.pdb
